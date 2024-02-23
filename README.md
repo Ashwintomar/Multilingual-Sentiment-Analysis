@@ -17,25 +17,12 @@ The digital landscape generates vast amounts of user-generated content in divers
 
 ## How to Use
 
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```
    git clone https://github.com/Ashwintomar/Multilingual-Sentiment-Analysis.git
    ```
 
-2. **Install Dependencies**
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Analysis**
-
-   ```
-   python analyze_sentiment.py --input_file input.txt --output_file output.txt
-   ```
-
-   Replace `input.txt` with your input file containing Hindi text to analyze and `output.txt` with the desired output file.
 
 ## Results
 
