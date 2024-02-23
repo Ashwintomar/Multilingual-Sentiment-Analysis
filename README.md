@@ -1,5 +1,3 @@
-To create a GitHub README.md file for your project "Multilingual Sentiment Analysis", you can use the following template:
-
 # Multilingual Sentiment Analysis
 
 This project explores the effectiveness of language-agnostic models for sentiment analysis, particularly focusing on sentiment expressed in Hindi text. It addresses the challenges in analyzing sentiment across languages and aims to provide insights into the robustness and accuracy of various pre-trained models.
