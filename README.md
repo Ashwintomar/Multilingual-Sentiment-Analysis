@@ -29,7 +29,5 @@ The project provides:
 - Evaluation of language-agnostic approach for cross-lingual sentiment analysis
 - Understanding the impact of translation quality on sentiment predictions
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
