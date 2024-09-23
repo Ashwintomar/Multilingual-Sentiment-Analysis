@@ -30,7 +30,7 @@ git clone https://github.com/Ashwintomar/Multilingual-Sentiment-Analysis.git
 Make sure to install the required packages:
 
 ```bash
-pip install -r requirements.txt
+!pip install transformers scikit-learn googletrans==3.1.0a0
 ```
 
 ### Running the Analysis
